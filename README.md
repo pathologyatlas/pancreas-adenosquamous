@@ -94,9 +94,9 @@ See Microscopy with viewer:
   reponame: pancreas-adenosquamous
   titleTR: pankreas adenoskuamöz karsinom
   titleEN: pancreas adenosquamous carcinoma
-  organTR: ''
-  organEN: ''
-  speciality: ''
+  organTR: pankreas
+  organEN: pancreas
+  speciality: pancreatobiliary
   type: published
   author:
   - Serdar Balci
@@ -105,17 +105,17 @@ See Microscopy with viewer:
   url: https://images.patolojiatlasi.com/pancreas-adenosquamous/HE.html
   note: ''
   categoriesTR:
-  - ''
-  - ''
-  - ''
+  - pankreas
+  - adenoskuamöz
+  - karsinom
   - patoloji
   - atlas
   - histopatoloji
   - whole slide image
   categoriesEN:
-  - ''
-  - ''
-  - ''
+  - pancreas
+  - adenosquamous
+  - carcinoma
   - pathology
   - atlas
   - histopathology
@@ -123,7 +123,7 @@ See Microscopy with viewer:
   screenshot: https://www.patolojiatlasi.com/screenshots/thumbnail_pancreas-adenosquamous-HE.png
   github: https:///github.com/pathologyatlas/pancreas-adenosquamous
   githubpage: https://pathologyatlas.github.io/pancreas-adenosquamous
-  youtube: https://www.youtube.com/watch?v=youtube_link
+  youtube: ''
 ```
 
 
@@ -162,7 +162,7 @@ See Microscopy with viewer:
   screenshot: https://www.patolojiatlasi.com/screenshots/thumbnail_pancreas-adenosquamous-CK7-p40.png
   github: https:///github.com/pathologyatlas/pancreas-adenosquamous
   githubpage: https://pathologyatlas.github.io/pancreas-adenosquamous
-  youtube: https://www.youtube.com/watch?v=youtube_link
+  youtube: ''
 ```
 
 
