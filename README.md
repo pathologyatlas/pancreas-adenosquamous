@@ -89,6 +89,23 @@ See Microscopy with viewer:
 
 
 
+
+
+---
+
+### Viewing Modes
+
+- [All Stains (Sequential)](https://images.patolojiatlasi.com/pancreas-adenosquamous/all.html) - Browse CK7-p40, HE stains in sequence
+- [Side by Side Comparison](https://images.patolojiatlasi.com/pancreas-adenosquamous/sidebyside.html) - View stains in synchronized panels
+- [Curtain Comparison](https://images.patolojiatlasi.com/pancreas-adenosquamous/curtain.html) - Overlay two stains with a draggable slider
+
+### Görüntüleme Modları
+
+- [Tüm Boyamalar (Sıralı)](https://images.patolojiatlasi.com/pancreas-adenosquamous/all.html) - Tüm boyamaları sırayla inceleyin
+- [Yan Yana Karşılaştırma](https://images.patolojiatlasi.com/pancreas-adenosquamous/sidebyside.html) - Boyamaları eş zamanlı panellerde görüntüleyin
+- [Perde Karşılaştırma](https://images.patolojiatlasi.com/pancreas-adenosquamous/curtain.html) - İki boyamayı sürgülü perde ile karşılaştırın
+
+
 ```yaml
 - stainname: pancreas-adenosquamous-HE
   reponame: pancreas-adenosquamous
